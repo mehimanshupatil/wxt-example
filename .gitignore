@@ -1,3 +1,4 @@
 node_modules
 .wxt
 .output
+web-ext.config.ts
